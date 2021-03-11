@@ -10,13 +10,20 @@ body {
 .section {
   height: 100vh;
 }
-
+ h3 {
+   text-align: center;
+ }
 
 #title {
 
   text-align: center;
 
 }
+.work-title {
+  padding-top: 1.5rem;
+  padding-bottom: .5rem;
+}
+
 #work {
   background-color: #72bcd4;
 }
